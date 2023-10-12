@@ -1,0 +1,8 @@
+[core]
+    remote = mys3http
+['remote "s3_scw"']
+    url = s3://dataset-registry-aramis
+    endpointurl = https://s3.fr-par.scw.cloud
+    region = fr-par
+['remote "mys3http"']
+    url = https://dataset-registry-aramis.s3.fr-par.scw.cloud
