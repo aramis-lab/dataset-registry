@@ -1,0 +1,6 @@
+outs:
+- md5: 663fd0064007c38d0713c0025a3f3366.dir
+  size: 50905
+  nfiles: 1
+  hash: md5
+  path: version_2
