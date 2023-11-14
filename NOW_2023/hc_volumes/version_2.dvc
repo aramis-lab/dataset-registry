@@ -1,0 +1,6 @@
+outs:
+- md5: ba4e6270308a1442ba2d3e5f2c37defa.dir
+  size: 19935
+  nfiles: 1
+  hash: md5
+  path: version_2
